@@ -14,8 +14,8 @@
       },
     "tabs": [
       {
-        "tab3": {
-          "layout": 1,
+        "tab1": {
+          "layout": 3,
           "buttontext": "<RichColor Color=\"1,0.65,0,1\">Survivor Stories</>",
           "title1": "Servidores PVE en clúster Survivor Stories",
           "title2": "Arkon",
