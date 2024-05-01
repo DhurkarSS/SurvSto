@@ -18,10 +18,10 @@
           "layout": 3,
           "buttontext": "<RichColor Color=\"1,0.65,0,1\">Survivor Stories</>",
           "title1": "Servidores PVE en clúster Survivor Stories",
-          "title2": "Arkon",
+          "title2": "Nuevo server SotF",
           "title3": "Dino Stats",
           "text1": "x2 Doma\nx2 Recolecta\nx2 Experiencia\nx3 Crianza\n\n\nSurvivor Stories\n\nTenemos The Island y Scorched Earth en clúster y vamos a ir añadiendo todos los servidores oficiales a medida que vayan saliendo.\n\nDisponemos de hardware de servidor dedicado propio, de alta gama, y alojado en España para ofreceros un rendimiento excelente, además de un ping bajo para que disfrutéis del juego como se debería durante mucho tiempo.",
-          "text2": "Comandos para usar en el chat global del juego (solo implementado en La isla de momento):\n\n+register <TuDiscord> - Vincula tu personaje Ark con el Discord\n Ej:+register Dhurkar\n\nUna vez registrado, en el discord podrás acceder a estadisticas de tu pj y tribu",
+          "text2": "Próximamente abriremos un servidor de Survival of the Fittest para echarnos unas pachangas juntos!\n\nIremos informando por el discord.",
           "text3": "Plugin para ver las estadísticas base que tenia tu dino cuando lo domesticaste, util para crianza.\n\n/ds - Muestra las estadísticas base de el dino al que apuntas\n/shazam - Cambia el nombre de tu dino con sus estadísticas base.\n/boom - Renombrar a todos los bebés con sus estadísticas base.",
           "imageurl": "https://i.imgur.com/iG47okL.jpeg"
         }
